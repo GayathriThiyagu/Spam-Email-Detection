@@ -167,7 +167,7 @@ Spam-Email-Detection/
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Gayathri**
 
